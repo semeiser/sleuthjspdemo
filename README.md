@@ -1,0 +1,1 @@
+Run in standalone tomcat container.
